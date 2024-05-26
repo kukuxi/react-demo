@@ -1,0 +1,8 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react common utils",
+  "module": "index.ts",
+  "author": "",
+  "license": "ISC"
+}
